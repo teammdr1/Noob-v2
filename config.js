@@ -1,5 +1,5 @@
 module.exports = {
-  token: 'MTMwNTIzOTQ1MzAwMTg0MjY5OA.Gl0UB8.ILu-hL9ujestJjvhrtCLFC3GccsJDEeGgH_lhs',
+  token: 'token',
   prefix: '+',
   embedColor: '#ffffff',
   ownerId: '1200909869872586752',
